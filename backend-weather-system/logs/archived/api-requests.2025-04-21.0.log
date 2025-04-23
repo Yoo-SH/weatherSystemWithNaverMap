@@ -1,0 +1,134 @@
+2025-04-21 19:07:04 - 
+===== API 응답 로그 =====
+요청 URI: /swagger-ui
+요청 메서드: GET
+응답 상태: 302
+실행 시간: 0ms
+응답 헤더:
+=======================
+2025-04-21 19:07:04 - 
+===== API 응답 로그 =====
+요청 URI: /v3/api-docs/swagger-config
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+응답 본문: {configUrl=/v3/api-docs/swagger-config, filter=true, oauth2RedirectUrl=http://localhost:3000/swagger-ui/oauth2-redirect.html, operationsSorter=method, tagsSorter=alpha, tryItOutEnabled=true, url=/v3/api-docs, validatorUrl=}
+=======================
+2025-04-21 19:07:05 - 
+===== API 응답 로그 =====
+요청 URI: /v3/api-docs
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+응답 본문: [B@1cd68c36
+=======================
+2025-04-21 19:15:48 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 127.0.0.1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    Accept: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 60%, data=[{coordinates={nx=7, ny=8}, location=서울, type=POP, value=60}], pagination=null)
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 445ms
+응답 헤더:
+    Content-Type: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 127.0.0.1
+요청 파라미터: type=[POP], location=[존재하지않는지역]
+요청 헤더:
+    Accept: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '존재하지않는지역'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 9ms
+응답 헤더:
+    Content-Type: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 127.0.0.1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    Accept: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=API 연결 오류: API 연결 오류, data=[], pagination=null)
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 22ms
+응답 헤더:
+    Content-Type: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/locations
+요청 메서드: GET
+클라이언트 IP: 127.0.0.1
+요청 파라미터: pageNo=[1], numOfRows=[10]
+요청 헤더:
+    Accept: application/json
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/locations
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=위치 정보 조회 성공, data=[{name=서울, lon=126.9838009154029, lat=37.58374456287517}, {name=울주군, lon=129.2509826926525, lat=35.509125051111624}, {name=세종특별자치시, lon=127.25433050850306, lat=36.58078747024842}, {name=수원시, lon=127.00020907447988, lat=37.30491172258226}, {name=성남시, lon=127.11302732310234, lat=37.4421592478889}, {name=의정부시, lon=127.07560476046126, lat=37.7394745043382}, {name=안양시, lon=126.90891284335709, lat=37.41480351306202}, {name=부천시, lon=126.78905288688246, lat=37.50803418760466}, {name=광명시, lon=126.86108891573343, lat=37.45034726363346}, {name=평택시, lon=127.03543519851621, lat=37.04771997130676}], pagination=ApiResponseDto.Pagination(currentPage=1, totalPages=15, totalItems=150))
+=======================
+2025-04-21 19:15:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/locations
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 52ms
+응답 헤더:
+    Content-Type: application/json
+=======================

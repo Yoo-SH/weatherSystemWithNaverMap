@@ -1,0 +1,3815 @@
+2025-04-24 00:57:43 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:57:43 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:57:43 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 308ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:57:43 GMT
+    Connection: close
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 308ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:57:43 GMT
+    Connection: close
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 310ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:57:43 GMT
+    Connection: close
+=======================
+2025-04-24 00:57:43 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 48ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:57:43 GMT
+    Connection: close
+=======================
+2025-04-24 00:57:43 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:57:43 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 49ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:57:43 GMT
+    Connection: close
+=======================
+2025-04-24 00:58:06 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:58:06 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:58:06 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 92ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:58:06 GMT
+    Connection: close
+=======================
+2025-04-24 00:58:16 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 00:58:16 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:58:16 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 98ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:58:16 GMT
+    Connection: close
+=======================
+2025-04-24 00:58:29 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 00:58:29 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:58:29 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 65ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:58:29 GMT
+    Connection: close
+=======================
+2025-04-24 00:58:59 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 00:58:59 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:58:59 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 93ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:58:59 GMT
+    Connection: close
+=======================
+2025-04-24 00:59:18 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 00:59:18 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 00:59:18 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 80ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 15:59:18 GMT
+    Connection: close
+=======================
+2025-04-24 01:04:21 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:04:21 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 01:04:21 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 87ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:04:21 GMT
+    Connection: close
+=======================
+2025-04-24 01:04:39 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REF], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:04:39 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 01:04:39 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 88ms
+응답 헤더:
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:04:39 GMT
+    Connection: close
+=======================
+2025-04-24 01:06:09 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REF], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:06:11 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REF], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:06:14 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    sec-purpose: prefetch;prerender
+    purpose: prefetch
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:06:27 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/all-locations
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:06:27 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/all-locations
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=위치 정보 조회 성공, data=[{name=서울, lon=126.9838009154029, lat=37.58374456287517}, {name=울주군, lon=129.2509826926525, lat=35.509125051111624}, {name=세종특별자치시, lon=127.25433050850306, lat=36.58078747024842}, {name=수원시, lon=127.00020907447988, lat=37.30491172258226}, {name=성남시, lon=127.11302732310234, lat=37.4421592478889}, {name=의정부시, lon=127.07560476046126, lat=37.7394745043382}, {name=안양시, lon=126.90891284335709, lat=37.41480351306202}, {name=부천시, lon=126.78905288688246, lat=37.50803418760466}, {name=광명시, lon=126.86108891573343, lat=37.45034726363346}, {name=평택시, lon=127.03543519851621, lat=37.04771997130676}], pagination=ApiResponseDto.Pagination(currentPage=1, totalPages=15, totalItems=150))
+=======================
+2025-04-24 01:06:27 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/all-locations
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 165ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:06:27 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:06:40 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:06:55 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "XML 응답을 받았습니다. 데이터 형식 처리에 문제가 있습니다.", data=[], pagination=null)
+=======================
+2025-04-24 01:06:55 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 14713ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:06:55 GMT
+    Connection: close
+=======================
+2025-04-24 01:07:06 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    cache-control: max-age=0
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:07:06 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 01:07:06 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 166ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:07:06 GMT
+    Connection: close
+=======================
+2025-04-24 01:07:11 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    cache-control: max-age=0
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:07:11 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 01:07:11 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 52ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:07:11 GMT
+    Connection: close
+=======================
+2025-04-24 01:09:32 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    sec-purpose: prefetch;prerender
+    purpose: prefetch
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:09:34 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/all-locations
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:09:34 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/all-locations
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=위치 정보 조회 성공, data=[{name=서울, lon=126.9838009154029, lat=37.58374456287517}, {name=울주군, lon=129.2509826926525, lat=35.509125051111624}, {name=세종특별자치시, lon=127.25433050850306, lat=36.58078747024842}, {name=수원시, lon=127.00020907447988, lat=37.30491172258226}, {name=성남시, lon=127.11302732310234, lat=37.4421592478889}, {name=의정부시, lon=127.07560476046126, lat=37.7394745043382}, {name=안양시, lon=126.90891284335709, lat=37.41480351306202}, {name=부천시, lon=126.78905288688246, lat=37.50803418760466}, {name=광명시, lon=126.86108891573343, lat=37.45034726363346}, {name=평택시, lon=127.03543519851621, lat=37.04771997130676}], pagination=ApiResponseDto.Pagination(currentPage=1, totalPages=15, totalItems=150))
+=======================
+2025-04-24 01:09:34 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/all-locations
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 6ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:09:34 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:09:50 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:09:50 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 01:09:50 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 95ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:09:50 GMT
+    Connection: close
+=======================
+2025-04-24 01:14:52 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    cache-control: max-age=0
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:14:59 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    cache-control: max-age=0
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:15:00 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "응답 형식이 잘못되었습니다: body 필드 없음", data=[], pagination=null)
+=======================
+2025-04-24 01:15:00 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 275ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:15:00 GMT
+    Connection: close
+=======================
+2025-04-24 01:18:58 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather/
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    cache-control: max-age=0
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:19:01 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    sec-ch-ua-platform: "Windows"
+    upgrade-insecure-requests: 1
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    sec-purpose: prefetch;prerender
+    purpose: prefetch
+    accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    sec-fetch-site: none
+    sec-fetch-mode: navigate
+    sec-fetch-user: ?1
+    sec-fetch-dest: document
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+    cookie: JSESSIONID=769DFA40D67D76485EC55D49C0877217
+=======================
+2025-04-24 01:19:02 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=7, ny=8}, location=서울, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:19:02 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1408ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:19:02 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:19:19 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:19:21 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=8}, location=서울, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:19:21 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1206ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:19:21 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:19:25 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:19:26 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=6}, location=전주시, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:19:26 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1164ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:19:26 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:19:46 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:19:48 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:19:48 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1574ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:19:48 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:19:52 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:19:53 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=6}, location=전주시, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:19:53 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1270ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:19:53 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:20:29 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:20:30 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=8}, location=서울, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:20:30 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1231ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:20:30 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:20:32 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:20:33 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.4m/s, data=[{coordinates={nx=7, ny=8}, location=서울, type=UUU, value=2.4}], pagination=null)
+=======================
+2025-04-24 01:20:33 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1201ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:20:33 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:20:36 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:20:38 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.3m/s, data=[{coordinates={nx=7, ny=6}, location=전주시, type=UUU, value=2.3}], pagination=null)
+=======================
+2025-04-24 01:20:38 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1229ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:20:38 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:23:14 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:23:15 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.4m/s, data=[{coordinates={nx=7, ny=8}, location=서울, type=UUU, value=2.4}], pagination=null)
+=======================
+2025-04-24 01:23:15 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1224ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:23:15 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:23:59 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:24:01 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.4m/s, data=[{coordinates={nx=7, ny=8}, location=서울, type=UUU, value=2.4}], pagination=null)
+=======================
+2025-04-24 01:24:01 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1121ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:24:01 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:24:14 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:24:15 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.3m/s, data=[{coordinates={nx=7, ny=6}, location=전주시, type=UUU, value=2.3}], pagination=null)
+=======================
+2025-04-24 01:24:15 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1350ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:24:15 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:24:21 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:24:22 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.4m/s, data=[{coordinates={nx=7, ny=8}, location=서울, type=UUU, value=2.4}], pagination=null)
+=======================
+2025-04-24 01:24:22 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1139ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:24:22 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:24:28 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:24:29 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.3m/s, data=[{coordinates={nx=7, ny=6}, location=전주시, type=UUU, value=2.3}], pagination=null)
+=======================
+2025-04-24 01:24:29 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1197ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:24:29 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:26:27 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:26:32 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:26:32 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 4745ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:26:32 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:26:39 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:26:40 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:26:41 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=7, ny=8}, location=서울, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:26:41 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1221ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:26:41 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:26:42 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:26:44 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=8}, location=서울, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:26:44 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1278ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:26:44 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:26:53 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=500, message=500 INTERNAL_SERVER_ERROR "XML 응답을 받았습니다. 데이터 형식 처리에 문제가 있습니다.", data=[], pagination=null)
+=======================
+2025-04-24 01:26:53 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 500
+실행 시간: 14076ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:26:53 GMT
+    Connection: close
+=======================
+2025-04-24 01:27:28 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:29 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:27:29 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1346ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:29 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:35 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:37 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=6}, location=전주시, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:27:37 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1231ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:37 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:38 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:39 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=7, ny=8}, location=서울, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:27:39 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1219ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:39 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:42 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:44 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=7, ny=6}, location=전주시, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:27:44 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1248ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:44 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:45 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:46 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=8}, location=서울, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:27:46 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1277ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:46 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:49 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:50 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=6}, location=전주시, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:27:50 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1272ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:50 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:52 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[부산]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:52 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '부산'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:27:52 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 4ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:52 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:27:56 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:27:57 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.4m/s, data=[{coordinates={nx=7, ny=8}, location=서울, type=UUU, value=2.4}], pagination=null)
+=======================
+2025-04-24 01:27:57 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1419ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:27:57 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:28:01 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[부산]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:28:01 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '부산'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:28:01 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 4ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:28:01 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:28:04 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:28:05 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.3m/s, data=[{coordinates={nx=7, ny=6}, location=전주시, type=UUU, value=2.3}], pagination=null)
+=======================
+2025-04-24 01:28:05 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1243ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:28:05 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:28:11 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:28:13 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:28:13 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1620ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:28:13 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:34:19 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:34:19 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '서울'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:34:19 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 130ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:34:19 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:34:21 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:34:21 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '서울'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:34:21 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 4ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:34:21 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:34:25 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[부산]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:34:25 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '부산'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:34:25 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 5ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:34:25 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:34:32 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:34:32 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '서울'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:34:32 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 5ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:34:32 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:34:49 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:34:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '전주시'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:34:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 3ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:34:49 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:36:17 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:36:17 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '서울'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:36:17 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 4ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:36:17 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:36:46 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[부산시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:36:46 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '부산시'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:36:46 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 131ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:36:46 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:37:15 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:37:15 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=error, statusCode=404, message=지역명 '서울'에 대한 좌표를 찾을 수 없습니다., data=[], pagination=null)
+=======================
+2025-04-24 01:37:15 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 5ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:37:15 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:38:40 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:38:41 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:38:41 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1424ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:38:41 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:19 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:20 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:39:20 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1152ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:20 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:23 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[부산시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:24 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 14°C, data=[{coordinates={nx=9, ny=5}, location=부산시, type=TMP, value=14}], pagination=null)
+=======================
+2025-04-24 01:39:24 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1141ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:24 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:27 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:28 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=6}, location=전주시, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:39:28 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1177ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:28 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:40 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:41 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=8}, location=서울, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:39:41 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1211ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:41 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:44 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:45 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 13°C, data=[{coordinates={nx=7, ny=6}, location=전주시, type=TMP, value=13}], pagination=null)
+=======================
+2025-04-24 01:39:45 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1155ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:45 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:48 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[TMP], location=[부산시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=온도: 14°C, data=[{coordinates={nx=9, ny=5}, location=부산시, type=TMP, value=14}], pagination=null)
+=======================
+2025-04-24 01:39:49 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1217ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:49 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:49 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:50 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=7, ny=8}, location=서울, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:39:50 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1124ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:50 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:55 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:56 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=7, ny=6}, location=전주시, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:39:56 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1200ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:56 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:58 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[POP], location=[부산시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:39:59 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=강수확률: 30%, data=[{coordinates={nx=9, ny=5}, location=부산시, type=POP, value=30}], pagination=null)
+=======================
+2025-04-24 01:39:59 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1149ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:39:59 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:39:59 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:40:00 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=8}, location=서울, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:40:00 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1177ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:40:00 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:40:04 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:40:06 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=7, ny=6}, location=전주시, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:40:06 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1924ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:40:06 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:40:11 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[REH], location=[부산시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:40:13 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=습도: 80%, data=[{coordinates={nx=9, ny=5}, location=부산시, type=REH, value=80}], pagination=null)
+=======================
+2025-04-24 01:40:13 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1368ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:40:13 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:40:13 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[서울]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:40:14 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.4m/s, data=[{coordinates={nx=7, ny=8}, location=서울, type=UUU, value=2.4}], pagination=null)
+=======================
+2025-04-24 01:40:14 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1262ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:40:14 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:40:17 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[전주시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:40:18 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.3m/s, data=[{coordinates={nx=7, ny=6}, location=전주시, type=UUU, value=2.3}], pagination=null)
+=======================
+2025-04-24 01:40:18 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 1269ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:40:18 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================
+2025-04-24 01:40:21 - 
+===== API 요청 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+클라이언트 IP: 0:0:0:0:0:0:0:1
+요청 파라미터: type=[UUU], location=[부산시]
+요청 헤더:
+    host: localhost:3000
+    connection: keep-alive
+    sec-ch-ua-platform: "Windows"
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+    accept: application/json, text/plain, */*
+    sec-ch-ua: "Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"
+    sec-ch-ua-mobile: ?0
+    origin: http://localhost:8080
+    sec-fetch-site: same-site
+    sec-fetch-mode: cors
+    sec-fetch-dest: empty
+    referer: http://localhost:8080/
+    accept-encoding: gzip, deflate, br, zstd
+    accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+=======================
+2025-04-24 01:40:23 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+응답 본문: ApiResponseDto(status=success, statusCode=200, message=동서바람성분: 2.3m/s, data=[{coordinates={nx=9, ny=5}, location=부산시, type=UUU, value=2.3}], pagination=null)
+=======================
+2025-04-24 01:40:23 - 
+===== API 응답 로그 =====
+요청 URI: /api/weather
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 2750ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+    Access-Control-Allow-Origin: http://localhost:8080
+    Access-Control-Allow-Credentials: true
+    Content-Type: application/json
+    Transfer-Encoding: chunked
+    Date: Wed, 23 Apr 2025 16:40:23 GMT
+    Keep-Alive: timeout=60
+    Connection: keep-alive
+=======================

@@ -1,0 +1,38 @@
+2025-04-23 23:14:30 - 
+===== API 응답 로그 =====
+요청 URI: /error
+요청 메서드: GET
+응답 상태: 404
+실행 시간: 0ms
+응답 헤더:
+    Vary: Origin
+    Vary: Origin
+    Vary: Origin
+응답 본문: {timestamp=Wed Apr 23 23:14:30 KST 2025, status=404, error=Not Found, path=/favicon.ico}
+=======================
+2025-04-23 23:15:39 - 
+===== API 응답 로그 =====
+요청 URI: /swagger-ui
+요청 메서드: GET
+응답 상태: 302
+실행 시간: 0ms
+응답 헤더:
+=======================
+2025-04-23 23:15:40 - 
+===== API 응답 로그 =====
+요청 URI: /v3/api-docs/swagger-config
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+응답 본문: {configUrl=/v3/api-docs/swagger-config, filter=true, oauth2RedirectUrl=http://localhost:3000/swagger-ui/oauth2-redirect.html, operationsSorter=method, tagsSorter=alpha, tryItOutEnabled=true, url=/v3/api-docs, validatorUrl=}
+=======================
+2025-04-23 23:15:40 - 
+===== API 응답 로그 =====
+요청 URI: /v3/api-docs
+요청 메서드: GET
+응답 상태: 200
+실행 시간: 0ms
+응답 헤더:
+응답 본문: [B@68b0b5df
+=======================

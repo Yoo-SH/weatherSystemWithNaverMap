@@ -1,0 +1,173 @@
+2025-04-24 00:57:43 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 00:57:43 [http-nio-3000-exec-3] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REH, 좌표=[7, 8]
+2025-04-24 00:57:43 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=UUU, 좌표=[7, 6]
+2025-04-24 00:57:43 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 00:57:43 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 00:58:06 [http-nio-3000-exec-7] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 00:58:16 [http-nio-3000-exec-6] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 00:58:29 [http-nio-3000-exec-10] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 00:58:59 [http-nio-3000-exec-8] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 00:59:18 [http-nio-3000-exec-9] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:04:21 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:04:39 [http-nio-3000-exec-3] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REF, 좌표=[7, 8]
+2025-04-24 01:05:58 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 30796 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:05:58 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:05:58 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:06:00 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:06:00 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:06:00 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:06:00 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:06:00 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:06:00 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1540 ms
+2025-04-24 01:06:00 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:06:00 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:06:00 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.355 seconds (process running for 4.521)
+2025-04-24 01:06:09 [http-nio-3000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-24 01:06:09 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-24 01:06:09 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-24 01:06:27 [http-nio-3000-exec-6] INFO  i.Y.b.c.Weather.WeatherController - 위치 정보 조회: 페이지=1, 페이지당 항목 수=10
+2025-04-24 01:06:40 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:07:06 [http-nio-3000-exec-9] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:07:11 [http-nio-3000-exec-10] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:09:34 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 위치 정보 조회: 페이지=1, 페이지당 항목 수=10
+2025-04-24 01:09:50 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:13:53 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 26156 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:13:53 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:13:53 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:13:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:13:55 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:13:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:13:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:13:55 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:13:55 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1567 ms
+2025-04-24 01:13:55 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:13:56 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:13:56 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.522 seconds (process running for 4.559)
+2025-04-24 01:14:52 [http-nio-3000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-24 01:14:52 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-24 01:14:52 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-04-24 01:15:00 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:18:42 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 31980 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:18:42 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:18:42 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:18:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:18:43 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:18:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:18:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:18:43 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:18:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1694 ms
+2025-04-24 01:18:44 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:18:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:18:44 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.596 seconds (process running for 4.646)
+2025-04-24 01:18:56 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 29988 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:18:56 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:18:56 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:18:57 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:18:57 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:18:57 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:18:57 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:18:57 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:18:57 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1495 ms
+2025-04-24 01:18:58 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:18:58 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:18:58 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.225 seconds (process running for 4.265)
+2025-04-24 01:18:58 [http-nio-3000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-24 01:18:58 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-24 01:18:58 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-24 01:19:01 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:19:19 [http-nio-3000-exec-3] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REH, 좌표=[7, 8]
+2025-04-24 01:19:25 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=REH, 좌표=[7, 6]
+2025-04-24 01:19:46 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:19:52 [http-nio-3000-exec-9] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=TMP, 좌표=[7, 6]
+2025-04-24 01:20:29 [http-nio-3000-exec-7] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REH, 좌표=[7, 8]
+2025-04-24 01:20:32 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 01:20:36 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=UUU, 좌표=[7, 6]
+2025-04-24 01:23:14 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 01:23:59 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 01:24:14 [http-nio-3000-exec-9] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=UUU, 좌표=[7, 6]
+2025-04-24 01:24:21 [http-nio-3000-exec-8] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 01:24:28 [http-nio-3000-exec-10] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=UUU, 좌표=[7, 6]
+2025-04-24 01:26:27 [http-nio-3000-exec-7] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:26:39 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:26:40 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:26:42 [http-nio-3000-exec-3] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REH, 좌표=[7, 8]
+2025-04-24 01:27:28 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:27:35 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=TMP, 좌표=[7, 6]
+2025-04-24 01:27:38 [http-nio-3000-exec-9] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:27:42 [http-nio-3000-exec-8] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=POP, 좌표=[7, 6]
+2025-04-24 01:27:45 [http-nio-3000-exec-10] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REH, 좌표=[7, 8]
+2025-04-24 01:27:49 [http-nio-3000-exec-6] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=REH, 좌표=[7, 6]
+2025-04-24 01:27:52 [http-nio-3000-exec-7] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '부산'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:27:56 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 01:28:01 [http-nio-3000-exec-3] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '부산'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:28:04 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=UUU, 좌표=[7, 6]
+2025-04-24 01:28:11 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:34:14 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 19940 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:34:14 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:34:14 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:34:15 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:34:15 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:34:15 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:34:15 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:34:15 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:34:15 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1505 ms
+2025-04-24 01:34:16 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:34:16 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:34:16 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.323 seconds (process running for 4.325)
+2025-04-24 01:34:19 [http-nio-3000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-24 01:34:19 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-24 01:34:19 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-04-24 01:34:19 [http-nio-3000-exec-1] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '서울'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:34:21 [http-nio-3000-exec-2] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '서울'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:34:25 [http-nio-3000-exec-3] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '부산'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:34:32 [http-nio-3000-exec-4] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '서울'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:34:49 [http-nio-3000-exec-5] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '전주시'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:36:17 [http-nio-3000-exec-7] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '서울'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:36:25 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 25404 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:36:25 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:36:25 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:36:27 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:36:27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:36:27 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:36:27 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:36:27 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:36:27 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1962 ms
+2025-04-24 01:36:28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:36:28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:36:28 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.853 seconds (process running for 4.94)
+2025-04-24 01:36:46 [http-nio-3000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-24 01:36:46 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-24 01:36:46 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-04-24 01:36:46 [http-nio-3000-exec-1] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '부산시'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:37:15 [http-nio-3000-exec-2] WARN  i.Y.b.c.Weather.WeatherController - 지역명 '서울'에 대한 좌표를 찾을 수 없습니다.
+2025-04-24 01:38:33 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Starting BackendWeatherSystemApplication using Java 21.0.6 with PID 34828 (C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system\target\classes started by User in C:\jbnu_project_4.1\weatherSystemWithNaverMap\backend-weather-system)
+2025-04-24 01:38:33 [main] DEBUG i.Y.b.BackendWeatherSystemApplication - Running with Spring Boot v3.2.4, Spring v6.1.5
+2025-04-24 01:38:33 [main] INFO  i.Y.b.BackendWeatherSystemApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-24 01:38:34 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 3000 (http)
+2025-04-24 01:38:34 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:38:34 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-24 01:38:34 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2025-04-24 01:38:35 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-24 01:38:35 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1758 ms
+2025-04-24 01:38:35 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3000"]
+2025-04-24 01:38:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 3000 (http) with context path ''
+2025-04-24 01:38:35 [main] INFO  i.Y.b.BackendWeatherSystemApplication - Started BackendWeatherSystemApplication in 3.586 seconds (process running for 4.713)
+2025-04-24 01:38:40 [http-nio-3000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-24 01:38:40 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-24 01:38:40 [http-nio-3000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-04-24 01:38:40 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:39:19 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:39:23 [http-nio-3000-exec-3] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=부산시, 타입=TMP, 좌표=[9, 5]
+2025-04-24 01:39:27 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=TMP, 좌표=[7, 6]
+2025-04-24 01:39:40 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=TMP, 좌표=[7, 8]
+2025-04-24 01:39:44 [http-nio-3000-exec-10] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=TMP, 좌표=[7, 6]
+2025-04-24 01:39:48 [http-nio-3000-exec-7] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=부산시, 타입=TMP, 좌표=[9, 5]
+2025-04-24 01:39:49 [http-nio-3000-exec-8] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=POP, 좌표=[7, 8]
+2025-04-24 01:39:55 [http-nio-3000-exec-9] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=POP, 좌표=[7, 6]
+2025-04-24 01:39:58 [http-nio-3000-exec-6] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=부산시, 타입=POP, 좌표=[9, 5]
+2025-04-24 01:39:59 [http-nio-3000-exec-1] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=REH, 좌표=[7, 8]
+2025-04-24 01:40:04 [http-nio-3000-exec-2] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=REH, 좌표=[7, 6]
+2025-04-24 01:40:11 [http-nio-3000-exec-3] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=부산시, 타입=REH, 좌표=[9, 5]
+2025-04-24 01:40:13 [http-nio-3000-exec-4] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=서울, 타입=UUU, 좌표=[7, 8]
+2025-04-24 01:40:17 [http-nio-3000-exec-5] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=전주시, 타입=UUU, 좌표=[7, 6]
+2025-04-24 01:40:21 [http-nio-3000-exec-10] INFO  i.Y.b.c.Weather.WeatherController - 날씨 데이터 조회: 지역=부산시, 타입=UUU, 좌표=[9, 5]
